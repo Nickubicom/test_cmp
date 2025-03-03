@@ -1,3 +1,4 @@
-version: "0.0.1"
-description: "This is a test component"
-url: "https://mycomponent.com"
+description: This is a test component
+license: MIT
+url: https://github.com/Nickubicom/test_cmp/tree/main/test_cmp
+version: 0.0.1~1
